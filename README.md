@@ -27,20 +27,31 @@ Visualization & Reporting:
 
 Generates performance metrics, including confusion matrices, classification reports, and ROC curves.
 Visualizes class distributions and detection results using intuitive plots.
+
+
+
+
 ⚙️ Technologies and Frameworks
 Deep Learning: TensorFlow, Keras
 Machine Learning: Scikit-learn, Imbalanced-learn
 Computer Vision: OpenCV, Scikit-image
 Real-Time Processing: RetinaFace, OpenCV
 Visualization: Matplotlib, Seaborn
+
+
 🎯 Applications
 Ensuring compliance with public health guidelines in crowded areas.
 Monitoring mask usage in real-time for workplaces, events, or transportation hubs.
 Deploying in security systems to enhance safety measures during pandemics.
+
+
+
 📊 Performance Highlights
 CNN Model: Achieved over 90% accuracy on multi-class classification tasks.
 HOG + SVM/MLP Models: Provided reliable alternative methods for classification.
 Real-Time Inference: Successfully detects and classifies faces in videos with minimal latency.
+
+
 🔧 How It Works
 Preprocessing:
 Organizes the dataset into training and testing splits.
